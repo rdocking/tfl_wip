@@ -5,8 +5,7 @@
 | February 14, 2019 | Kevin Hay                              | Dr. Hoodless         | NA         |          | Yes     |
 | February 21, 2019 | Bettina Fuglerud (Hoodless Lab)        | Min Chen (Jiang Lab) | AbCellera  | Becky    |         |
 | February 28, 2019 | Aparna Gopal (Karsan Lab)              | Catherine Steer      | AbCellera   | Becky    |         |
-| March 7, 2019     | Susanna Tan (Eaves Lab)                | Xuehai Wang (Weng Lab)  |            |          | Yes     |
-| March 13?         |                                        |                      |            | Becky    |         |
+| March 7, 2019     | Susanna Tan (Eaves Lab)                | Xuehai Wang (Weng Lab)  | AbCellera / BioLegend   |          | Yes     |
 | March 14, 2019    | WIP Cancelled due to B.I.G. Day at UBC |                      |            |          |         |
 | March 21, 2019    | Colin Hammond (Eaves Lab)              |                      |            |          |         |
 | March 28, 2019    | Kat Rothe (Jiang Lab)                  |                      |            | Becky    |         |
