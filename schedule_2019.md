@@ -9,7 +9,7 @@
 | March 14, 2019    | WIP Cancelled due to B.I.G. Day at UBC |                      |            |          |         |
 | March 21, 2019    | Colin Hammond (Eaves Lab)              |                      |            |          |         |
 | March 28, 2019    | Kat Rothe (Jiang Lab)                  |                      |            | Becky    |         |
-| April 4, 2019     | Tomohiro Aoki (Steidl Lab)             |                      |            |          | Yes     |
+| April 4, 2019     | Tomohiro Aoki (Steidl Lab)             |                      |            |          |      |
 | April 11, 2019    | Margie MacAldaz (Eaves Lab)            |                      |            | Becky    |         |
 | April 18, 2019    | Alice Yue (Brinkman Lab)               |                      |            | Becky    |         |
 | April 25, 2019    | Michael Nissen (Weng Lab)              |                      |            |          | Yes     |
