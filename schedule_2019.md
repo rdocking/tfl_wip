@@ -13,7 +13,7 @@
 | June 6, 2019      | Avi Thakur (Hoodless Lab)              |                             | Becky    |                  |
 | June 13, 2019     | Xuehai Wang                            |                             |          | Yes - ???        |
 | June 20, 2019     | Emily Chang                            |                             | Becky    |                  |
-| June 27, 2019     | Monica Romera Hernandez                |                             |          | Yes - ???        |
+| June 27, 2019     | Monica Romera Hernandez                |                             |          | Yes - Takei Lab  |
 
 ## Past WIPs
 
