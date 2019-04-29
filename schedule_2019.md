@@ -4,14 +4,14 @@
 
 | Date              | Speaker                                | Moderator                   | Cookies? | Social?          |
 |-------------------|----------------------------------------|-----------------------------|----------|------------------|
-| April 25, 2019    | Michael Nissen (Weng Lab)              | Avi Thakur (Hoodless Lab)   |          | Yes              |
+| April 25, 2019    | Michael Nissen (Weng Lab)              | Avi Thakur (Hoodless Lab)   |          | Yes - Davide Farewell       |
 | May 2, 2019       | Alice Yue (Brinkman Lab)               | Fang-wu Wang (Eaves Lab)    |          | Yes - ???        |
 | May 9, 2019       | Dr. Kevin Song, BMT                    |                             | Becky    |                  |
 | May 16, 2019      | Moamen Bydoun (Karsan Lab)             |                             |          | Yes - Karsan Lab |
 | May 23, 2019      | Lisa Bulaeva (Eaves Lab)               |                             | Becky    |                  |
 | May 30, 2019      | Gabriela Segat (Weng Lab)              |                             |          | Yes - Weng Lab   |
 | June 6, 2019      | Avi Thakur (Hoodless Lab)              |                             | Becky    |                  |
-| June 13, 2019     | Xuehai Wang                            |                             |          | Yes - ???        |
+| June 13, 2019     | Xuehai Wang                            |                             |          | Yes - Hoodless Lab |
 | June 20, 2019     | Emily Chang                            |                             | Becky    |                  |
 | June 27, 2019     | Monica Romera Hernandez                |                             |          | Yes - Takei Lab  |
 
