@@ -7,7 +7,7 @@
 | April 25, 2019    | Michael Nissen (Weng Lab)              | Avi Thakur (Hoodless Lab)   |          | Yes - Davide Farewell       |
 | May 2, 2019       | Alice Yue (Brinkman Lab)               | Fang-wu Wang (Eaves Lab)    |          | Yes - Brinkman Lab        |
 | May 9, 2019       | Dr. Kevin Song, BMT                    |                             | Becky    |                  |
-| May 16, 2019      | Moamen Bydoun (Karsan Lab)             |                             |          | Yes - Karsan Lab |
+| May 16, 2019      | CANCELLED                              |                             |          |                  |
 | May 23, 2019      | Lisa Bulaeva (Eaves Lab)               |                             | Becky    |                  |
 | May 30, 2019      | Gabriela Segat (Weng Lab)              |                             |          | Yes - Weng Lab   |
 | June 6, 2019      | Avi Thakur (Hoodless Lab)              |                             | Becky    |                  |
