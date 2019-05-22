@@ -10,6 +10,7 @@
 | May 16, 2019      | CANCELLED                              |                             |          |                  |
 | May 23, 2019      | Lisa Bulaeva (Eaves Lab)               |                             | Becky    |                  |
 | May 30, 2019      | Gabriela Segat (Weng Lab)              |                             |          | Yes - Weng Lab   |
+| May 31, 2019      | TFL Special Seminar                    | Rod                         |          | Yes - TBD        |
 | June 6, 2019      | Avi Thakur (Hoodless Lab)              |                             | Becky    |                  |
 | June 13, 2019     | Xuehai Wang                            |                             |          | Yes - Hoodless Lab |
 | June 20, 2019     | Emily Chang                            |                             | Becky    |                  |
